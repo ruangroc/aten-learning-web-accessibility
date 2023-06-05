@@ -1,0 +1,21 @@
+.promotion-bar {
+    padding: 10px;
+    text-align: center;
+    background-color: #02f5ae;
+    color: #00205b;
+    font-weight: bold;
+}
+
+.blue-bg {
+    background-color: rgb(0, 25, 82);
+}
+
+.nav-title {
+    color: white;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.width-100 {
+    width: 100%;
+}
